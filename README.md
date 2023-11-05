@@ -13,8 +13,8 @@ Welcome to the CryptoCraftsman Portfolio app, developed as part of the comprehen
   - [ERC20 Token](https://thirdweb.com/thirdweb.eth/TokenERC20)
   - [ERC721 NFT](https://thirdweb.com/thirdweb.eth/DropERC721)
   - [ERC1155 Multi-Token](https://thirdweb.com/thirdweb.eth/DropERC1155)
-  - Tip Jar - A custom smart contract built during the course
-  - Profile Status - Another custom smart contract developed in the course
+  - Tip Jar - A custom smart contract built 
+  - Profile Status - Another custom smart contract developed 
   - [ERC721 Staking](https://thirdweb.com/thirdweb.eth/NFTStake)
 
 

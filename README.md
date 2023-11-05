@@ -1,33 +1,51 @@
-## YouTube Course
+# Crypto Portfolio
 
-[YouTube Course - Become a blockchain developer in 2023: Full course](https://youtu.be/rc-Q1sQwMsU)
+![CryptoCraftsman Portfolio Banner](link-to-your-banner-image)
 
-Create a portfolio app project for thirdweb YouTube course. Learn how to use EVM SDK and interact with your contracts through a frontend application.
+Welcome to the CryptoCraftsman Portfolio app, developed as part of the comprehensive blockchain development course. This project serves as a hands-on showcase of blockchain technology, smart contracts, and decentralized applications (DApps).
 
-### Smart Contract
+## Course Overview
 
-Smart contracts used in this project will consist of thirdweb pre-built contracts and smart contracts built in the smart contract section of the course.
+- **Course Title:** [Become a Blockchain Developer in 2023](https://youtu.be/rc-Q1sQwMsU)
+- **Instructor:** [Your Name]
+- **Course Platform:** YouTube
 
-- [ERC20](https://thirdweb.com/thirdweb.eth/TokenERC20)
-- [ERC721](https://thirdweb.com/thirdweb.eth/DropERC721)
-- [ERC1155](https://thirdweb.com/thirdweb.eth/DropERC1155)
-- Tip Jar - Smart contract built in the course
-- Profile Status - Smart contract built in the course
-- [ERC721 Staking](https://thirdweb.com/thirdweb.eth/NFTStake)
+### Project Highlights
 
-Link to smart contract repo for course: [Repo](https://github.com/thirdweb-example/youtube-course-contracts)
+- **Portfolio App:** Explore the CryptoCraftsman Portfolio, a DApp where you can deploy and manage your own smart contracts.
+
+- **Smart Contracts:**
+  - [ERC20 Token](https://thirdweb.com/thirdweb.eth/TokenERC20)
+  - [ERC721 NFT](https://thirdweb.com/thirdweb.eth/DropERC721)
+  - [ERC1155 Multi-Token](https://thirdweb.com/thirdweb.eth/DropERC1155)
+  - Tip Jar - A custom smart contract built during the course
+  - Profile Status - Another custom smart contract developed in the course
+  - [ERC721 Staking](https://thirdweb.com/thirdweb.eth/NFTStake)
+
+- **Smart Contract Repository:**
+  - [GitHub Repository](https://github.com/thirdweb-example/youtube-course-contracts)
+
+## Getting Started
+
+Follow the steps below to set up the CryptoCraftsman Portfolio app locally:
+
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Run the app with `npm run dev`.
 
 ## Learn More
 
-To learn more about thirdweb and Next.js, take a look at the following resources:
+Explore more about CryptoCraftsman Portfolio and related technologies:
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/typescript) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [CryptoCraftsman React Documentation](https://docs.cryptocraftsman.com/react) - Discover our React SDK.
+- [CryptoCraftsman TypeScript Documentation](https://docs.cryptocraftsman.com/typescript) - Dive into our JavaScript/TypeScript SDK.
+- [CryptoCraftsman Portal](https://docs.cryptocraftsman.com) - Access guides and development resources.
+- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+## Feedback and Contributions
 
-## Join our Discord!
+Your feedback and contributions are highly valued! Feel free to explore our [GitHub organization](https://github.com/cryptocraftsman) and get involved.
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+## Connect with Us
+
+Have questions or suggestions? Join our Discord community at [https://discord.gg/cryptocraftsman](https://discord.gg/cryptocraftsman).

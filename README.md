@@ -2,7 +2,7 @@
 
 ![CryptoCraftsman Portfolio Banner](link-to-your-banner-image)
 
-Welcome to the CryptoCraftsman Portfolio app, developed as part of the comprehensive blockchain development course. This project serves as a hands-on showcase of blockchain technology, smart contracts, and decentralized applications (DApps).
+Welcome to the CryptoCraftsman Portfolio app, developed as part of the comprehensive blockchain development dapps. This project serves as a hands-on showcase of blockchain technology, smart contracts, and decentralized applications (DApps).
 
 
 ### Project Highlights
